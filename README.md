@@ -24,7 +24,7 @@ You will submit the following details about your project for approval by your in
 - Detailed README.md (Project Title, Description, How to Get Started, Credits).
 - A Trello Board detailing the plan and progress of your project.
 - A wireframe of your "main" game screen. Online tools you can use to create your wireframe include [Draw.io](https://app.diagrams.net/), [Figma](https://www.figma.com/) and [Wireframe.CC](https://wireframe.cc/).
-- Any additional project planning requirements specific to the game you have chosen as defined in the in the **Additional Planning Requirements** column of the table in the **[Recommended games](./recommended-games)** document or as discussed with your instructor.
+- Any additional project planning requirements specific to the game you have chosen as defined in the in the **Additional Planning Requirements** column of the table in the **[Recommended games](./recommended-games/README.md)** document or as discussed with your instructor.
 - **Your game must be approved by the instructors before you begin your project.**
 
 ## GitHub repo deliverable
